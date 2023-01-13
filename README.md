@@ -44,7 +44,7 @@
 - [Oxford Comma Lab](https://github.com/learn-co-curriculum/python-p3-oxford-comma-lab)
 - [Deli Counter Lab](https://github.com/learn-co-curriculum/python-p3-deli-counter-lab)
 - [Cartoon Collections Lab](https://github.com/learn-co-curriculum/python-p3-cartoon-collections-lab)
-- [{"basket": "ball"}](https://github.com/learn-co-curriculum/python-p3-basket-ball)
+- [{"basket": "ball"} Lab](https://github.com/learn-co-curriculum/python-p3-basket-ball)
 
 ### Object Orientation in Python
 
